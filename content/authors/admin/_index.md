@@ -39,13 +39,3 @@ Her PhD research, conducted in the lab of Dr. Kevin Briggman at the Max Planck I
 
 She is devoted to mentorship and is committed to training students from under-represented backgrounds in STEM. She is active with Skype a Scientist and serves as an advisor to undergraduates and high school students interested in a career in neuroscience through the Simply Neuroscience Advising Program.
 
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
-
