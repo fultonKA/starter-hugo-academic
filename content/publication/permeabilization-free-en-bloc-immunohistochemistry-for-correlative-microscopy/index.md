@@ -33,8 +33,7 @@ subtitle: ""
 doi: 10.7554/eLife.63392
 featured: true
 tags: []
-projects:
-  - example
+projects:[]
 image:
   caption: ""
   focal_point: ""
