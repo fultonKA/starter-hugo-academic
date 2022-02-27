@@ -9,7 +9,7 @@ appearance:
   theme_day: Earth
   theme_night: Earth
   font: minimal
-  font_size: S
+  font_size: m
 
 # SEO
 
@@ -91,7 +91,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: mapbox
     api_key: ''
     zoom: 15
 
