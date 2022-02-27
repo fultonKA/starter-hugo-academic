@@ -25,23 +25,25 @@ experience:
   - title: Postdoctoral Research Fellow
     company: Harvard Medical School
     company_url: ''
-    company_logo: org-gc
-    location: Boston, MA
+    company_logo: ''
+    location: California
     date_start: '2021-09-01'
     date_end: ''
     description: ''
+
   - title: Postdoctoral Research Fellow
     company: Max Planck Institute for Neurobiology of Behavior - CAESAR
     company_url: ''
-    company_logo: org-gc
+    company_logo: ''
     location: Bonn, Germany
     date_start: '2020-09-01'
     date_end: '2021-08-31'
     description: ''
+        
   - title: PhD Student
-    company: Brown University - NIH 
+    company: Brown University - National Institutes of Health
     company_url: ''
-    company_logo: org-x
+    company_logo: ''
     location: Bethesda, MD and Bonn, Germany
     date_start: '2013-06-01'
     date_end: '2020-08-31'
