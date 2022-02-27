@@ -13,7 +13,7 @@ address:
   country: ""
 
 summary: Discussion of the benefits and challenges of pursuing an academic position abroad
-abstract: "From my experience of moving to Germany midway through my PhD, I offer insight into conducting science in a new country and the practicalities of finding academic positions abroad. We will discuss everything from the job search to arranging international interviews, from managing international moving logistics to acquiring funding, and from registering at the foreign office to writing animal protocols in another language."
+abstract: From my experience of moving to Germany midway through my PhD, I offer insight into conducting science in a new country and the practicalities of finding academic positions abroad. We will discuss everything from the job search to arranging international interviews, from managing international moving logistics to acquiring funding, and from registering at the foreign office to writing animal protocols in another language.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -29,10 +29,6 @@ tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
-
-image:
-  caption: ""
-  focal_point: 
 
 links:
 #- icon: twitter
