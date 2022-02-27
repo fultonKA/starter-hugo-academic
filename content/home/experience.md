@@ -42,7 +42,7 @@ experience:
     company: Brown University - NIH 
     company_url: ''
     company_logo: org-x
-    location: Bethesda, MD --> Bonn, Germany
+    location: Bethesda, MD and Bonn, Germany
     date_start: '2013-06-01'
     date_end: '2020-08-31'
     description: Dissertation Title: Wiring specificity of molecularly-distinct interneurons in the mouse olfactory bulb.
