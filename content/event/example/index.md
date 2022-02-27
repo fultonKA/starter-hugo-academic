@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: Transitioning to Postdoc Positions in Germany
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: NIH Science Voices from Home
+event_url: https://www.training.nih.gov/felcom/visitingfellows2
 
-location: Wowchemy HQ
+location: Virtual
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: ""
+  city: ""
+  region: ""
+  postcode: ""
+  country: ""
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Discussion of the benefits and challenges of pursuing an academic position abroad
+abstract: "From my experience of moving to Germany midway through my PhD, I offer insight into conducting science in a new country and the practicalities of finding academic positions abroad. We will discuss everything from the job search to arranging international interviews, from managing international moving logistics to acquiring funding, and from registering at the foreign office to writing animal protocols in another language."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-03-10T12:00:00Z'
+# date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2070-01-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -31,14 +31,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: ""
+  focal_point: 
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -56,8 +56,7 @@ slides: example
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+projects = []
 ---
 
 {{% callout note %}}
