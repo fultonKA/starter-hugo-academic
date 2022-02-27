@@ -29,7 +29,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Permeabilization-free en bloc immunohistochemistry for correlative microscopy
-subtitle: ""
+subtitle: "Institute press release [https://mpinb.mpg.de/en/research-groups/groups/computational-neuroethology/news/%E2%80%9Cpermeabilization-free-en-bloc-immunohistochemistry-for-correlative-microscopy%E2%80%9D.html]"
 doi: 10.7554/eLife.63392
 featured: true
 tags: []
