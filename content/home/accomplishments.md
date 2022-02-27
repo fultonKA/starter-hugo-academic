@@ -37,6 +37,10 @@ headless: true
 weight: 50
 title: Fellowships & Awards
 subtitle: null
+
+design:
+  columns: '2' 
+
 ---
 * Nominated for Joukowsky Outstanding Dissertation Prize (2021)
 * International Society of Olfaction and Taste (ISOT) Don Tucker Memorial Award (2020)
@@ -47,6 +51,3 @@ subtitle: null
 * Post-baccalaureate Intramural Research Training Award, NIH (2011—2013)
 * Research Experience for Undergraduates Fellowship, National Science Foundation (2010)
 * Dominic Tomasi Scholarship Fund, University of Michigan Alumni Association (2007)
-
-design:
-  columns: '2' 
