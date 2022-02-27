@@ -33,7 +33,7 @@ subtitle: "Institute press release [https://mpinb.mpg.de/en/research-groups/grou
 doi: 10.7554/eLife.63392
 featured: true
 tags: []
-projects:[]
+projects: ""
 image:
   caption: ""
   focal_point: ""
