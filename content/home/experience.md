@@ -11,7 +11,7 @@ weight: 40
 
 title: Experience
 subtitle:
-active: false
+
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
@@ -26,21 +26,23 @@ experience:
     company: Harvard Medical School
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Boston, MA
+    date_start: '2021-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
+    description: 
+  - title: Postdoctoral Research Fellow
+    company: Max Planck Institute for Neurobiology of Behavior - CAESAR
+    company_url: ''
+    company_logo: org-gc
+    location: Bonn, Germany
+    date_start: '2020-09-01'
+    date_end: '2021-08-31'
+    description: 
   - title: PhD Student
     company: Brown University - NIH 
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Bethesda, MD --> Bonn, Germany
     date_start: '2013-06-01'
     date_end: '2020-08-31'
     description: Dissertation Title: Wiring specificity of molecularly-distinct interneurons in the mouse olfactory bulb.
